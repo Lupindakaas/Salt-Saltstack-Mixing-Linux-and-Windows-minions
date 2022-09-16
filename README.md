@@ -1,4 +1,4 @@
-# SaltStack - mixing linux and windows minions
+# SaltStack - Mixing Linux and Windows Minions
 
 ## Prerequisites
 
